@@ -1,0 +1,13 @@
+.user{
+    box-shadow:0 1px 8px rgba(0,0,0,0.2);
+    margin:2rem;
+    width:80%;
+    font-family:sans-serif;
+    font-size:1rem;
+    padding:1rem;
+    background-color:#3c0034;
+    color:white;
+    text-align:center;
+    margin-left:6rem;
+    
+}

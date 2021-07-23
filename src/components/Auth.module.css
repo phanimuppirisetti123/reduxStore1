@@ -1,0 +1,22 @@
+.auth{
+    margin-top:4rem;
+    background-color:#252525;
+    color:#ccc;
+    padding:0.5rem;
+    width:50%;
+    border-radius:12px;
+    font-family:sans-serif;
+    text-align:center;
+    margin-left:20rem;
+};
+.auth label{
+    margin:0.5rem;
+    padding:0.5rem;
+}
+
+
+.auth input {
+    margin:2rem;
+    padding:0.5rem;
+    border:1px solid black;
+};
